@@ -1,7 +1,6 @@
-```
 # Fundus Camera  
 
-![Fundus Camera](./image.jpg)  
+![Fundus Camera](./image.jpg) 
 
 A portable and affordable **Fundus Camera** designed for capturing high-quality retinal images. This project is optimized for deployment in rural areas, providing essential tools for retinal disease detection and analysis.  
 
@@ -44,7 +43,7 @@ npm run dev
 - **Real-Time Retinal Imaging**: Captures high-resolution retina images.  
 - **AI-Powered Analysis**: Supports integration of machine learning models for disease detection.  
 - **User-Friendly Interface**: Easy-to-use desktop application for healthcare professionals.  
-  
+
 
 ---  
 
