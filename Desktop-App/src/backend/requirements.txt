@@ -1,0 +1,6 @@
+flask
+flask-cors
+werkzeug
+numpy
+scikit-image
+pillow

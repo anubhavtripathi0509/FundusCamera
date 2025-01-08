@@ -1,0 +1,24 @@
+Screens:
+1. Welcome Screen (Anubhav)
+2. Patient Form (UI Done)
+3. Getting Started (Hold)
+	- Google drive permission
+4. Home Screen (UI done)
+5. All Patients (UI done)
+6. Patient Record (UI done)
+7. Camera Screen (logic done)
+8. Loading Screen (Arman)
+9. About Screen (UI done)
+10. Splash Screen 
+11. WebView/User manual (Done)
+12. Output Screen (UI done)
+13. Detailed Output Screen
+
+
+Scripts:
+1. Periodic Sync
+2. Periodic Update
+
+Components:
+1. Sidebar/Drawer (done)
+2. Toast (done)
