@@ -1,4 +1,4 @@
-# NetraX
+# Fundus Camera
 
 ## Getting Started (For Desktop App)
 
